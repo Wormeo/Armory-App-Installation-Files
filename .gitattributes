@@ -1,0 +1,2 @@
+Armory[[:space:]]App.apk filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
